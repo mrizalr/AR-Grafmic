@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="eps3_2" size="512.000000 910.222229" />
+    <ImageTarget name="eps2_2" size="512.000000 910.222229" />
+    <ImageTarget name="eps1_2" size="512.000000 910.222229" />
+    <ImageTarget name="eps3" size="5.000000 7.093822" />
+    <ImageTarget name="eps2" size="5.000000 7.093822" />
+    <ImageTarget name="eps1" size="5.000000 7.093822" />
+    <ImageTarget name="Marker1_1" size="512.000000 706.370361" />
+    <ImageTarget name="Marker1_2" size="512.000000 739.606873" />
+  </Tracking>
+</QCARConfig>
